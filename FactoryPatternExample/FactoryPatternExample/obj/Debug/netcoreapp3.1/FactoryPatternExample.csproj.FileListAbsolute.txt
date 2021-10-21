@@ -1,0 +1,13 @@
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.exe
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.deps.json
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.runtimeconfig.json
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.runtimeconfig.dev.json
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.dll
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.pdb
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.csprojAssemblyReference.cache
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.AssemblyInfoInputs.cache
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.AssemblyInfo.cs
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.dll
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.pdb
+C:\berufsschule\ifa12a\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.genruntimeconfig.cache
